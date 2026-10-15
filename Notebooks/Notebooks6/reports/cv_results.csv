@@ -1,0 +1,4 @@
+,best_score,best_params
+decision_tree,0.9022167487684729,"{'model__max_depth': 5, 'model__min_samples_leaf': 1}"
+logistic_regression,0.9790640394088669,{'model__C': 1.0}
+knn,0.9578817733990148,{'model__n_neighbors': 7}
